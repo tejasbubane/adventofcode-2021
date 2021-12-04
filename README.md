@@ -1,5 +1,7 @@
 # Advent of Code 2021
 
+[![.github/workflows/ci.yml](https://github.com/tejasbubane/adventofcode-2021/actions/workflows/ci.yml/badge.svg)](https://github.com/tejasbubane/adventofcode-2021/actions/workflows/ci.yml)
+
 Solutions for [Advent of Code 2021](https://adventofcode.com/2021) in [Elixir](https://elixir-lang.org/).
 
 ### Structure
