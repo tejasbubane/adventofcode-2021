@@ -8,4 +8,8 @@ defmodule Parser do
   def to_ints(list) do
     list |> Enum.map(&String.to_integer/1)
   end
+
+  def csv_to_list(line) do
+    line |> String.split(",", trim: true)
+  end
 end
